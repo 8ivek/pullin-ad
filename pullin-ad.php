@@ -22,6 +22,8 @@ function pullin_css() {
 	#pullin_footer .pullin_handle a {
 		display: inline;
 		margin: 5px auto;
+		font-size: 11px;
+		outline: 0;
 	}
 	#pullin_footer .pullin_content {
 		background:black;
