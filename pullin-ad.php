@@ -14,12 +14,13 @@ function pullin_css() {
 	#pullin_footer {
 		position:fixed;
 		bottom:0;
+		z-index:99999;
 	}
 	#pullin_footer .pullin_handle {
 		text-align:center;
 	}
 	#pullin_footer .pullin_handle a {
-		display:block;
+		display: inline;
 		margin: 5px auto;
 	}
 	#pullin_footer .pullin_content {
