@@ -2,7 +2,7 @@
 /*
 Plugin Name: pullin-ad
 Plugin URI: https://github.com/8ivek/pullin-ad
-Description: Sale oriented ad management pluigin that pulls in only interested user in ad website. Ensure / Increase sale.
+Description: Pullin-ad is a sale oriented ad management pluigin that pulls in only interested user in the advertiser's website. Ensures / Increases sale.
 Author: Bivek Joshi
 Version: 0.1
 Author URI: http://www.bivekjoshi.com.np
