@@ -8,11 +8,11 @@ Stable tag: 4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Pullin-ad is a sale oriented ad management pluigin that pulls in only interested user in the advertiser's website. Ensures / Increases sale.
+Pullin-ad is a sale oriented ad management pluigin that pulls in only interested user in the advertiser's website. Ensures or Increases sale.
 
 == Description ==
 
-Pullin-ad is a sale oriented ad management pluigin that pulls in only interested user in the advertiser's website. Ensures / Increases sale.
+Pullin-ad is a sale oriented ad management pluigin that pulls in only interested user in the advertiser's website. Ensures or Increases sale.
 
 == Installation ==
 
@@ -37,8 +37,8 @@ You can also be the part of development team please click following link to view
 
 == Screenshots ==
 
-1. screenshot-1.jpg
-2. screenshot-2.jpg
+1. screenshot-1.png
+2. screenshot-2.png
 
 == Changelog ==
 
